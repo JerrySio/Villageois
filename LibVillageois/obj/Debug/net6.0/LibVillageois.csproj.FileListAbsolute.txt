@@ -1,0 +1,12 @@
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\bin\Debug\net6.0\LibVillageois.deps.json
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\bin\Debug\net6.0\LibVillageois.dll
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\bin\Debug\net6.0\LibVillageois.pdb
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.csproj.AssemblyReference.cache
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.AssemblyInfoInputs.cache
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.AssemblyInfo.cs
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.csproj.CoreCompileInputs.cache
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.dll
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\refint\LibVillageois.dll
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\LibVillageois.pdb
+C:\Users\bornil_j\source\repos\LibVillageois\LibVillageois\obj\Debug\net6.0\ref\LibVillageois.dll
